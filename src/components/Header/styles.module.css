@@ -1,0 +1,19 @@
+.container {
+  padding: 4px;
+  box-sizing: border-box;
+}
+.container > div {
+  height: 60px;
+  box-sizing: border-box;
+}
+.left {
+  width: 100px;
+  float: left;
+}
+.content {
+  overflow: hidden;
+}
+.right {
+  width: 100px;
+  float: right;
+}

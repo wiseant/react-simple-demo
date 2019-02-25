@@ -1,0 +1,18 @@
+.main{
+  background-color: #ccc;
+  position:absolute;
+  top:64px;
+  left:0;
+  right:0;
+  bottom:4px;
+}
+.left {
+  width: 200px;
+  height: 100%;
+  float: left;
+  background-color: blue;
+}
+.content {
+  height: 100%;
+  overflow: hidden;
+}
